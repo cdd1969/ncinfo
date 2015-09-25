@@ -31,12 +31,12 @@
    - 4.3.2
 
    Python modules:
+   - numpy 1.9.2
+   - scipy 0.12.0
    - json 2.0.9
    - PyQt4 4.10.3
-   - scipy 0.12.0
-   - numpy 1.9.2
-   - netCDF4 1.0.8
-   - matplotlib 1.3.0
+   - python-netCDF4 1.0.8
+   - matplotlib 1.3.0 (make sure to install matplotlib after PyQt4 has been installed)
    - Basemap 1.0.8
 
 4) The file matplotlibrc in current directory will overwrite all
